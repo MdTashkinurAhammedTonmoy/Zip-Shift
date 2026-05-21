@@ -5,7 +5,7 @@ const Logo = () => {
     return (
         <div className='flex items-end'>
             <img src={logo} alt="" />
-            <h2 className='font-extrabold text-3xl -ms-2.5 text-[#FFFFFF]'>ZapShift</h2>
+            <h2 className=' text-black font-extrabold text-3xl -ms-2.5'>ZapShift</h2>
         </div>
     );
 };
